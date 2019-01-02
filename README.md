@@ -1,5 +1,4 @@
-# f18-news-popularity
-Online News Popularity
+# Online News Popularity
 
 By: Shivam Pandit, Nandini Krupa Krishnamurthy, Rohit Chundru 
 
